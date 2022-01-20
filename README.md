@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SattapoomTulyasuk
 - 👀 I’m interested in Gaming.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning React.
 - 📫 Reach me on my Github.
 
 <!---
